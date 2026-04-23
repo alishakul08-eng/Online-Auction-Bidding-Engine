@@ -25,27 +25,25 @@ By implementing SSL/TLS encryption (using server.crt and server.key), the system
 -----
 
 ##  Demo Screenshots
-Login Page
+Login Page\
 ![Login Page](Screenshots/login.jpeg)
 
-Server Side Gui
+Server Side Gui\
 ![Server Side Gui](Screenshots/server.jpeg)
 
-User Gui
+User Gui\
 ![User Gui](Screenshots/user.jpeg)
 
-Timer
+Timer\
 ![Timer](Screenshots/timer.jpeg)
 
-Pop Up Alerts
+Pop Up Alerts\
 ![Pop Up Alert](Screenshots/popup.jpeg)
 
-Winner Side Fireworks
+Winner Side Fireworks\
 
-<video width="640" height="360" controls>
-  <source src="./Screenshots/fireworks.mp4" type="video/mp4">
-  Winner side fireworks
-</video>
+https://github.com/user-attachments/assets/81d7e477-38a7-43ca-a4ab-0f2a89852adf
+
 
 -----
 
