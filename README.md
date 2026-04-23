@@ -25,7 +25,16 @@ By implementing SSL/TLS encryption (using server.crt and server.key), the system
 -----
 
 ##  Demo Screenshots
+![Login Page](Screenshots/login.png)
+![Server Side Gui](Screenshots/server.png)
+![User Gui](Screenshots/user.png)
+![Timer](Screenshots/timer.png)
+![Pop Up Alert](Screenshots/popup.png)
 
+<video width="640" height="360" controls>
+  <source src="Screenshots/fireworks.mp4" type="video/mp4">
+  Winner side fireworks
+</video>
 
 -----
 
