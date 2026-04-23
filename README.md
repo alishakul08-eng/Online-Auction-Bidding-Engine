@@ -25,25 +25,37 @@ By implementing SSL/TLS encryption (using server.crt and server.key), the system
 -----
 
 ##  Demo Screenshots
-Login Page\
-![Login Page](Screenshots/login.jpeg)
 
-Server Side Gui\
-![Server Side Gui](Screenshots/server.jpeg)
+### Login Page
 
-User Gui\
-![User Gui](Screenshots/user.jpeg)
+![Login Page](Screenshots/login.jpeg)\
+Validates user credentials against the users.csv database over a secure SSL handshake before granting access to the auction floor.\
 
-Timer\
-![Timer](Screenshots/timer.jpeg)
+### Server Side Gui
 
-Pop Up Alerts\
-![Pop Up Alert](Screenshots/popup.jpeg)
+![Server Side Gui](Screenshots/server.jpeg)\
+Provides the administrator with a real-time monitoring dashboard that logs every connection, bid attempt, and timer sequence in the system.\
 
-Winner Side Fireworks\
+### User Gui
 
-https://github.com/user-attachments/assets/81d7e477-38a7-43ca-a4ab-0f2a89852adf
+![User Gui](Screenshots/user.jpeg)\
+Features a high-resolution bidding interface that dynamically renders auction items and live chat logs using the Tkinter and Pillow libraries.\
 
+### Timer
+
+![Timer](Screenshots/timer.jpeg)\
+Implements a synchronized threading.Event logic that manages the "Going Once, Going Twice" countdown, resetting automatically upon every valid higher bid.\
+
+### Pop Up Alerts
+
+![Pop Up Alert](Screenshots/popup.jpeg)\
+Delivers instantaneous, non-blocking visual notifications for critical events like high bid updates, bidder withdrawals, and upcoming round preparations.\
+
+### Winner Side Fireworks
+
+https://github.com/user-attachments/assets/81d7e477-38a7-43ca-a4ab-0f2a89852adf 
+
+Executes a dynamic canvas particle animation to provide immediate visual celebration for the user who successfully secures the highest bid.\
 
 -----
 
